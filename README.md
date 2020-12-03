@@ -11,7 +11,7 @@ pwd：jia0
 
 google:
 
-doing... but it is too slow.
+doing... but it is too slow to upload the dataset.
 
 please wait...
 
