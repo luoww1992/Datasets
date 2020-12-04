@@ -11,10 +11,9 @@ pwd：jia0
 
 google:
 
-doing... but it is too slow to upload the dataset.
+url: https://drive.google.com/drive/folders/19wYYMP6ze8JPZFL6AxqHxl19TwRWz5-C?usp=sharing
 
-please wait...
-
+over !
 =============**************************==================
 
 some datasets need pwd, if someone knows it , share it .
